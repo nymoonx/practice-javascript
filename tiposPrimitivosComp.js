@@ -58,12 +58,15 @@ x = {
       calle:"dfpgofrorneg",
       numero:9999999
   }
-
 };
 console.log(x);
 console.log(typeof x);
 y = x["nombre"]
 console.log(y);
 
+//el punto sirve para extraer un campo de mi objeto
 y = x.nombre
+console.log(y);
+
+y=x.direccion.calle;
 console.log(y);
