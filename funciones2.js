@@ -20,3 +20,21 @@ definir una funcion que dado un nombre,te salude (que te devuelva un saludo con 
 */
 
 
+function saludo (hola) {
+  let saludo = hola.hey;
+  let nombre = marta.nom;
+  let espacio = " "
+
+  return saludo + espacio + nombre;
+
+}
+
+const saludo1= {
+  hey:"hola",
+  nom:"marta",
+
+}
+
+console.log (saludo (saludo1))
+
+
