@@ -7,6 +7,7 @@
  */
 function imprimePrimos(minimo, maximo) {
  //resolver aquí
+ let primos=
 }
 
 imprimePrimos(1,10);

@@ -14,3 +14,6 @@ if (par % 2 === 0) {
 } else {
   console.log("es impar");
 }
+
+
+// 
