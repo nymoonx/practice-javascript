@@ -100,3 +100,9 @@ const paresYNones = (listaDeNumeros) =>
   );
 
 verResultado(paresYNones([1, 2, 3, 4, 5, 6, 6, 6, 6, 6, 7, 7, 7, 2, 1]));
+
+function paresynoness(listadecompr) {
+  let x=( < 1+ > 5)
+}let y=6
+let m= 7
+
